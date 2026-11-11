@@ -282,7 +282,9 @@
 
 //#define	ENABLE_DRIVER_UART_TCP					1
 
-//#define	ENABLE_DRIVER_SSD1306					1
+#define	ENABLE_DRIVER_SSD1306					1
+#define ENABLE_DRIVER_SHT3X         1
+#define ENABLE_DRIVER_DS3231        1
 
 #define ENABLE_DRIVER_SHUTTERS					1
 // #define	ENABLE_DRIVER_PIR					1
